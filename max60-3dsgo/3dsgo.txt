@@ -1,0 +1,31 @@
+//////////////////////////////////////////////////////////////////////////////
+//
+//	Gothic 3DS file importer/exporter (plugins) for 3ds max 6.0
+//
+
+Version
+¯¯¯¯¯¯¯
+1.0
+
+Support
+¯¯¯¯¯¯¯
+None
+
+Installation
+¯¯¯¯¯¯¯¯¯¯¯¯
+Copy 3dsimpgo.dli and 3dsexpgo.dle to $max\stdplugs
+
+Usage
+¯¯¯¯¯
+Make sure "Gothic 3DS" is selected in the imort/export dailog
+
+
+Changes
+¯¯¯¯¯¯¯
+- max 1024 materials (256 before)
+- max MAX_PATH (260) chars for bitmaps (8.3 before)
+- max MAX_PATH (260) chars for some objects (mats)
+
+Legal Stuff
+¯¯¯¯¯¯¯¯¯¯¯
+Public domain

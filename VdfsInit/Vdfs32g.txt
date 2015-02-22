@@ -1,0 +1,28 @@
+//////////////////////////////////////////////////////////////////////////////
+//
+//  VDFS Init Tool 2.6 (german)
+//
+//      Gothic II  1.2x - 2.5x
+//
+//  KEIN OFFIZIELLER SUPPORT FUER DIESE VERSION!
+//  (bei Problemen eine EMail an nicode@gmx.net)
+//
+
+Installation:
+
+    Vdfs32g.exe nach [GOTHIC2]\System\ entpacken.
+    (vorhandene Datei ueberschreiben/ersetzen)
+
+
+Notes:
+
+    Der Neuaufbau der VDFS Volume-Map nimmt sehr viel Zeit in Anspruch
+    (bis zu einigen Minuten!).
+    Also bitte beim ersten Start oder nach einem Crash in Geduld ueben.
+    (die Gothic2.exe erzwingt einen Neuaufbau der VDFS Volume-Map wenn
+     der Wert von 'gameAbnormalExit' in der [GOTHIC2]\System\Gothic.ini
+     nicht 0 ist; dies ist typischerweise nach einem Crash der Fall -
+     oder wenn Gothic II durch ein anderes Programm terminiert wurde)
+
+
+[2003-10-22]

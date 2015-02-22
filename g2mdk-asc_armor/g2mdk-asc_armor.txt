@@ -1,0 +1,5 @@
+Copyright (c) 2004 Pluto 13 GmbH (Piranha Bytes). 
+Dieses Werk kann durch jedermann in nichtkommerzieller Form 
+gemäß den Bestimmungen der GothicMOD Lizenz genutzt werden. 
+Die Lizenzbedingungen können unter http://www.gothic2.de/mod 
+oder unter http://www.piranha-bytes.com/mod abgerufen werden. 
